@@ -1,4 +1,4 @@
 # HyperFTC
 Github Metadata
 
-[![Metrics](./github-metrics.svg)](https://github.com/20022robocats)
+[![Metrics](https://raw.githubusercontent.com/20022Robocats/.github/main/github-metrics.svg)](https://github.com/20022robocats)
