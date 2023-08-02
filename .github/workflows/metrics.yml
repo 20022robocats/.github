@@ -25,9 +25,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: HyperFTC
+          user: 20022robocats
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           base_indepth: yes
           config_timezone: America/New_York
           plugin_languages: yes
